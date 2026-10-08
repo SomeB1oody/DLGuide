@@ -9,3 +9,4 @@
 - [Convolutional Neural Network (CNN) Practical (Basics): Cat and Dog Photo Binary Classification](./Chapter-02/2.3/2.3.%20Convolutional%20Neural%20Network%20(CNN)%20Practice%20(Basic)%20-%20Cat%20and%20Dog%20Photo%20Binary%20Classification.md)
 - [Convolutional Neural Network (CNN) Practical (Advanced): Using VGG-16 for Image Feature Extraction](./Chapter-02/2.4/2.4.%20Convolutional%20Neural%20Network%20(CNN)%20Practice%20(Advanced)%20-%20Using%20VGG-16%20for%20Image%20Feature%20Extraction.md)
 - [Sequence Model](./Chapter-03/3.1/3.1.%20Sequence%20Model.md)
+- [Recurrent Neural Network (RNN) Theory (Basics)](./Chapter-03/3.2/3.2.%20Recurrent%20Neural%20Network%20(RNN)%20Theory%20(Basic).md)
