@@ -11,3 +11,4 @@
 - [Sequence Model](./Chapter-03/3.1/3.1.%20Sequence%20Model.md)
 - [Recurrent Neural Network (RNN) Theory (Basics)](./Chapter-03/3.2/3.2.%20Recurrent%20Neural%20Network%20(RNN)%20Theory%20(Basic).md)
 - [Recurrent Neural Network (RNN) Theory (Advanced)](./Chapter-03/3.3/3.3.%20Recurrent%20Neural%20Network%20(RNN)%20Theory%20(Advanced).md)
+- [Recurrent Neural Network (RNN) Practical - Predicting Stock Prices](./Chapter-03/3.4/3.4.%20Recurrent%20Neural%20Network%20(RNN)%20In%20Practice%20-%20Predicting%20Stock%20Prices.md)
