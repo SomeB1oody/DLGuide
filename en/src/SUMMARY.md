@@ -12,3 +12,4 @@
 - [Recurrent Neural Network (RNN) Theory (Basics)](./Chapter-03/3.2/3.2.%20Recurrent%20Neural%20Network%20(RNN)%20Theory%20(Basic).md)
 - [Recurrent Neural Network (RNN) Theory (Advanced)](./Chapter-03/3.3/3.3.%20Recurrent%20Neural%20Network%20(RNN)%20Theory%20(Advanced).md)
 - [Recurrent Neural Network (RNN) Practical - Predicting Stock Prices](./Chapter-03/3.4/3.4.%20Recurrent%20Neural%20Network%20(RNN)%20In%20Practice%20-%20Predicting%20Stock%20Prices.md)
+- [Recurrent Neural Network (RNN) Practical - LSTM Auto-Generating Text](./Chapter-03/3.5/3.5.%20Recurrent%20Neural%20Network%20(RNN)%20In%20Practice%20-%20LSTM%20Text%20Generation.md)
